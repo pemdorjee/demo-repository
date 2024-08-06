@@ -1,0 +1,54 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 079cdea..238cf75 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -7,4 +7,6 @@[m [mdskahflkjdsahflkj[m
+ <p> intel </p>[m
+ [m
+ djfdks[m
+[32m+[m[32m##hello this is from feature branch update files[m[41m [m
+[32m+[m[32mand the changes are[m[41m [m
+ akdj;salfjsda;fsakjkjj[m
+[1mdiff --git a/dflk b/dflk[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3f7b9c3[m
+[1m--- /dev/null[m
+[1m+++ b/dflk[m
+[36m@@ -0,0 +1,37 @@[m
+[32m+[m[32m[33mcommit c369189c29002788580bf3ce67bcc2a17a5861e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 23:07:07 2024 +0530[m
+[32m+[m
+[32m+[m[32m    new final line[m
+[32m+[m
+[32m+[m[32m[33mcommit aa72c11b373ba7133c77b36d80a66eae611fac2f[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 22:51:57 2024 +0530[m
+[32m+[m
+[32m+[m[32m    new stage[m
+[32m+[m
+[32m+[m[32m[33mcommit bc9e89ba7baac38fd00f5973619624052cc66756[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 16:29:43 2024 +0530[m
+[32m+[m
+[32m+[m[32m    Update README.md[m
+[32m+[m
+[32m+[m[32m[33mcommit cf9901a017be078576bf03964f6240a22614302b[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 16:27:30 2024 +0530[m
+[32m+[m
+[32m+[m[32m    Update README 3rd.md[m
+[32m+[m
+[32m+[m[32m[33mcommit 430edc4c6b395d178e56249da798002e249edeac[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 13:51:47 2024 +0530[m
+[32m+[m
+[32m+[m[32m    Update  1 README.md[m
+[32m+[m[41m    [m
+[32m+[m[32m    line number 1[m
+[32m+[m
+[32m+[m[32m[33mcommit 2894f0c3a229312b8672ef09e382185e54fc9b11[m[m
+[32m+[m[32mAuthor: Pem dorjee <145693225+pemdorjee@users.noreply.github.com>[m
+[32m+[m[32mDate:   Sun Aug 4 13:46:33 2024 +0530[m
+[32m+[m
+[32m+[m[32m    Create README.md[m
